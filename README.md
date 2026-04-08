@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://pbs.twimg.com/profile_banners/964974856856133632/1733852827/1500x500" alt="Hugo Richard Banner" width="100%" height="200" style="object-fit: cover;">
+  
+  ## Software Engineer & Odoo ERP Technical Developer
+  
+  *"Hunterr°"*
+</div>
 
-<!--
-**suleiman-hamza/suleiman-hamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://x.com/thee_hamza001">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hugorcd">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="Bluesky followers" src="https://img.shields.io/bluesky/followers/:actor">
 
-Here are some ideas to get you started:
+  </a>
+  <a href="https://hunterxx.vercel.app">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+
+- 💚Frontend Engineering
+- ▲ Odoo ERP
+- 🚀 Golang
+
+<!--<img src="https://u8views.com/api/v1/github/profiles/71938701/views/day-week-month-total-count.svg" width="0" height="0" />-->
