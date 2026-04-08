@@ -10,11 +10,7 @@
   <a href="https://x.com/thee_hamza001">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hugorcd">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
-    <img alt="Bluesky followers" src="https://img.shields.io/bluesky/followers/:actor">
-
-  </a>
+  
   <a href="https://hunterxx.vercel.app">
     <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
