@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   
-  <a href="https://hunterxx.vercel.app">
+  <a href="https://shshunt.vercel.app">
     <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
